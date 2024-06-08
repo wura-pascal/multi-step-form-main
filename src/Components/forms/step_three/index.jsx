@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function StepThree() {
   return (
-    <div>Step hfdttygukul,</div>
-  )
+    <div>
+      <h1></h1>
+    </div>
+  );
 }
 
-export default StepThree
+export default StepThree;
